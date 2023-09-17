@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Shop_Steff/static/css/main.ddc3c496.css",
+    "main.js": "/Shop_Steff/static/js/main.e1083f74.js",
+    "static/js/787.23170c61.chunk.js": "/Shop_Steff/static/js/787.23170c61.chunk.js",
+    "static/media/house.jpg": "/Shop_Steff/static/media/house.dc77b114c529acb87e45.jpg",
+    "index.html": "/Shop_Steff/index.html",
+    "main.ddc3c496.css.map": "/Shop_Steff/static/css/main.ddc3c496.css.map",
+    "main.e1083f74.js.map": "/Shop_Steff/static/js/main.e1083f74.js.map",
+    "787.23170c61.chunk.js.map": "/Shop_Steff/static/js/787.23170c61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddc3c496.css",
+    "static/js/main.e1083f74.js"
+  ]
+}
